@@ -1,0 +1,1 @@
+phpmd php.php html cleancode, unusedcode, codesize, controversial, design, naming --reportfile phpmd.html

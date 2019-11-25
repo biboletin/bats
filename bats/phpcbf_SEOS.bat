@@ -1,0 +1,1 @@
+phpcbf --standard=PSR2 --ignore=/certificate/*,/css/*,/error/*,/images/*,/in/*,/js/*,/lib/*,/libs/*,/logs/*,/nbproject/*,/partials/*,/templates/*,/wsdl/*,/xml_file/*,/xmlseclibs/* SEOS/
